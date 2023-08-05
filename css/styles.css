@@ -24,7 +24,7 @@ body{
     color: #404BBF;
 }
 .studio{
-    color:#2e2f42 ;
+    color:#2e2f42;
 }
 .info{
     font-style: normal;
@@ -52,20 +52,20 @@ body{
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-button{
+.btn{
     font-family: "Roboto" sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: #404BBF;
+    background-color: #4d5ae5;
     cursor: pointer;
 }
 button:focus, button:hover{
 background-color: #404BBF;
 }
-.list-ben{
+.li-back{
     background-color: #ffffff;
 }
 .hetext{
@@ -91,6 +91,9 @@ background-color: #404BBF;
 }
 .team{
     background-color: #f4f4fd;
+}
+.studio-foot{
+    color: #f4f4fd;
 }
 .color-foot{
     background-color: #2e2f42;
