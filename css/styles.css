@@ -66,3 +66,8 @@ background-color: #404BBF;
 .team{
     background-color: #f4f4fd;
 }
+.text-foot{
+    line-height: 1.5;
+    color: f4f4fd;
+    letter-spacing: 0.02em;
+}
