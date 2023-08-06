@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
@@ -36,12 +36,10 @@ body{
     color: #434455;
     
 }
-.contacts:hover{
+.contacts:hover, :focus{
     color: #404BBF;
 }
-.contacts:focus{
-    color:#404bbf;
-}
+
 .main_info{
     background-color: #2e2f42;
 }
@@ -53,7 +51,7 @@ body{
     color: #ffffff;
 }
 .btn{
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -61,6 +59,9 @@ body{
     color: #ffffff;
     background-color: #4d5ae5;
     cursor: pointer;
+}
+.li-back{
+    background-color: #ffffff;
 }
 button:focus, button:hover{
 background-color: #404BBF;
@@ -77,6 +78,7 @@ background-color: #404BBF;
     color: #2e2f42;
 
 }
+
 .headline{
     font-weight: 500;
     font-size: 20px;
